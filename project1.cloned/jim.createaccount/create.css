@@ -1,0 +1,162 @@
+.create1 {
+    background: fixed;
+    background-color: rgb(65, 62, 62);
+    width: 100%;
+    height: 130px;
+}
+
+.div11 {
+    width: 50%;
+    margin: auto;
+    width: auto;
+}
+
+.topbut div {
+    margin: 5px 0;
+    width: 30px;
+    height: 3px;
+    background-color: white;
+    margin-top: 5px;
+}
+
+.topbut {
+    background-color: rgb(70, 67, 67);
+    padding: 2px;
+    padding-right: 6px;
+    padding-left: 6px;
+    margin-left: 80%;
+    padding-top: 6px;
+    border-radius: 6px;
+    margin-top: 9px;
+}
+
+h1 {
+    margin: 5px;
+    height: 4px;
+    word-spacing: 10px;
+    letter-spacing: 1px;
+    color: rgb(173, 36, 36);
+    padding-left: 20px;
+    padding: -10px;
+    font-size: 50px;
+}
+
+#found {
+    letter-spacing: 10px;
+    color: white;
+    margin-left: 25px;
+    padding: -10px;
+}
+
+#lab1 {
+    margin-left: 20px;
+    word-spacing: 3px;
+    padding-inline-end: -5px;
+}
+
+#lab2 {
+    margin-left: 20px;
+    word-spacing: 3px;
+    padding-inline-end: 10px;
+}
+
+#image1 {
+    margin-top: -20px;
+}
+
+#createheading,
+#user1 {
+    padding-left: 20px;
+    padding: 12px;
+    margin: 10px;
+}
+
+#create1 {
+    width: 100%;
+}
+
+#create2 {
+    width: 100%;
+}
+
+.userdetail {
+    width: 100%;
+    border-collapse: collapse;
+    padding-inline-start: 70px;
+}
+
+#first1 {
+    width: 100%;
+}
+
+#mid {
+    width: 100%;
+}
+
+#last {
+    width: 100%;
+}
+
+#date {
+    width: 100%;
+}
+
+#datecon {
+    padding: 3px;
+    border-style: groove;
+    border-radius: 3px;
+}
+
+#butdate {
+    width: 90px;
+}
+
+.field1 {
+    border-radius: 6px;
+    height: 280px;
+}
+
+.createacc {
+    color: rgb(209, 200, 200);
+}
+
+.createbut {
+    background-color: rgb(29, 160, 29);
+    border-radius: 12px;
+    padding-right: 10px;
+    margin: 10px;
+}
+
+.create2 {
+    margin: 25px;
+}
+
+.clicklink {
+    margin: 30px;
+}
+
+.butcreate2 {
+    padding: 20px;
+    margin-top: -20px;
+    border-radius: 9px;
+}
+
+#capbut {
+    width: 100%;
+}
+
+#capcap {
+    width: 2px;
+    padding-inline-start: 20px;
+    margin: 5px;
+    font-size: 15px;
+}
+
+#writeup {
+    font-size: large;
+}
+
+.butcreate3 {
+    padding-left: 10px;
+    margin-top: 20px;
+}
